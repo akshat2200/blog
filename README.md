@@ -10,5 +10,6 @@ This function takes dataframe and target column name which need to be anonymized
 This function will take care of ordering as well so that Ajay, Manoj and Afzal will always have "secret 0", "secret 1" and "secret 2" as anonymized names even if new names introduced in data. Note: this function will generate json file which will be used to store history.
 
 ***Usage***
+<br />
 ![](./pics/anonimization.JPG)
 
